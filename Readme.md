@@ -2,6 +2,8 @@
 
 A fully responsive personal portfolio website to showcase my skills, experience, and projects to potential employers.
 
+# Live demo https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-michael-wambua/
+
 ## Overview
 
 This portfolio website serves as a professional online presence, featuring a clean, responsive design that highlights my qualifications and work. The site is built with HTML, CSS, and JavaScript and features smooth scrolling, responsive design, and interactive elements.
